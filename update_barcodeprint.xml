@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
-    <title>Barcode Update</title>
-    <url>https://github.com/sahel0708/PlusbTool-Updates/releases/download/v1.1.0.0/PlusbUpdate.zip</url>
+    <version>1.2.0.9</version>
+    <title>Barcode Print Manager Update</title>
+    <url>https://github.com/sahel0708/PlusbTool-Updates/releases/download/v1.2.0.9/PlusbUpdate.zip</url>
     <mandatory>false</mandatory>
 </item>
